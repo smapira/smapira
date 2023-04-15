@@ -52,13 +52,3 @@
 ```
 
     
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/smapira/smapira/master/profile-summary-card-output/nord_dark/4-productive-time.svg)
-```
-
-    

@@ -52,3 +52,13 @@
 ```
 
     
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/smapira/smapira/master/profile-summary-card-output/codeSTACKr/4-productive-time.svg)
+```
+
+    
